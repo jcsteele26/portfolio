@@ -1,0 +1,68 @@
+.display-1{
+	color: blue;
+	text-align: center;
+	text-shadow: 5px 5px grey;
+}
+h2{
+	color: blue;
+	text-align: left;
+	text-shadow: 2px 2px black;
+
+}
+h4{
+	color: black;
+	font-weight: bolder;
+}
+nav a{
+	text-decoration: none;
+	color: black;
+	margin-right: 30px;
+}
+nav a:hover{
+	text-decoration: underline;
+	color: darkgrey;
+}
+nav a:active{
+	color: white;
+}
+.col-sm-4{
+	min-height: 50px;
+	min-width: 50px;
+	text-align: left;
+}
+.col-md-6{
+	min-height: 100px;
+	min-width: 100px;
+	text-align: center;
+}
+.col-md-4{
+	min-height: 200px;
+	min-width: 200px;
+	text-align: center;
+	border: 1px #ccc solid;
+}
+.footer{
+	/*position: fixed;*/
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: lightgray;
+	color: black;
+	text-align: center;
+}
+/*.container-1{
+
+}
+.container-2{
+
+}
+.container-3{
+
+}
+.container-4{
+
+} */
+
+
+
+
